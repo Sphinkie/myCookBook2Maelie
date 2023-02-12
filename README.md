@@ -4,8 +4,8 @@ Assistant for recipes migration from myCookBook to Mealie
 
 ## Purpose
 
-[myCookBook](https://www.cookmate.online/) to [Mealie](https://hay-kot.github.io/mealie/) are two recipe managers, hosted on internet 
-with an Android application (and a browser web page) to view and edit your recipes.
+[myCookBook](https://www.cookmate.online/) and [Mealie](https://hay-kot.github.io/mealie/) are two recipe managers, hosted on internet 
+with an Android application (and a browser web application) to view and edit your recipes.
 
 The goal of this tools is to migrate your recipes from myCookBook to Mealie.
 
