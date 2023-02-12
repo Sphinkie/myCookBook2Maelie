@@ -1,4 +1,4 @@
-# myCookBook2Mealie
+# myCookBook → Mealie
 
 Assistant for recipes migration from myCookBook to Mealie
 
@@ -26,4 +26,4 @@ For the migration, proceed as follows:
 6. Open the **Mealie** web aplication with an *administrator* account, go to the *Parameters* menu, and clic on `Try a migration`
 7. Select the **NextCloud** format and import the `mycookbook.nextcloud.zip` file.
 8. Wait for 5 to 10 minutes.
-9. Go to the **Recipes** menu: you receipes are here!
+9. Go to the **Recipes** menu: you recipes are here!
